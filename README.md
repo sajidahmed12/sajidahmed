@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Kingshuk</h1></summary>
+    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Sajid</h1></summary>
   </ul>
 </div>
 
@@ -22,11 +22,11 @@
 
 <!--Intro start-->
 
-- 🗂️ Check out my [Porfolio](https://kingshuk.me/)
+- 🗂️ Check out my [Porfolio](https://sites.google.com/view/sajid-site)
 
-- 🌱 Currently working at **CVS Health**
+- 🌱 Currently working at **AlterSense | Fatima Fellowship Inc.**
 
-- 📫 Say hi: **contact@kingshuk.me**
+- 📫 Say hi: **sajid.ahmed1@northsouth.edu**
 
 
  <br></br>
